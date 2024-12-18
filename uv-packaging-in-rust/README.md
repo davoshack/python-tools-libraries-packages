@@ -1,4 +1,4 @@
-# UV for Python
+# uv: project and package manager for Python
 [docs](https://astral.sh/blog/uv)
 
 ## Installation
